@@ -1,9 +1,11 @@
 # Linear Regression
 
+In the majority of Machine Learning use-cases, following one or another form as a Data Scientist, you should create a model that predicts something. Be it a class, a numerical value, or a sequence of values. In this task, you will train your first Machine Learning Model - Linear Regression.
+
 In this task, we invite you to train 2 models on the selected Data Set that should predict the target column. The models are the following:
 
 - the LinearRegression from sklearn;
-- the Lin reg implementation offered in SMLH.
+- the Lin_reg implementation offered in SMLH.
 
 ## Selected Data Set
 
