@@ -19,13 +19,13 @@ In this task, we invite you to train 2 models on a selected Data Set that should
 PS: More about decision boundary you can find [here](https://bit.ly/3U7ICc7).
 
 - Decision trees have a lot of hyperparameters. Let’s explore how they influence the accuracy of the model. For every hyperparameter in this list, create a line plot where on the X-axis are hyperparameter values and on the Y-axis is the accuracy of the model for different hyperparameter settings:
-  - _max depth_
-  - _min samples split_
-  - _min samples leaf_
-  - _min weight f raction leaf_
-  - _max f eatures_
-  - _max leaf nodes_
-  - _min impurity decrease_
+  - _max_depth_
+  - _min_samples_split_
+  - _min_samples_leaf_
+  - _min_weight_fraction_leaf_
+  - _max_features_
+  - _max_leaf_nodes_
+  - _min_impurity_decrease_
 
 P.S. Always set random state the same.
 
