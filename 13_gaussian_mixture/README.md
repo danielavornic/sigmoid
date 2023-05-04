@@ -4,7 +4,7 @@ You already got to know the clustering problem in Machine Learning. Also, you me
 
 ## Selected Data Set
 
-Customer Segmentation Data Set. Available [here](https://bit.ly/3FG0Woy).
+Wine Customer Segmentation Data Set. Available [here](https://bit.ly/3Nn242k).
 
 ## Tasks
 
