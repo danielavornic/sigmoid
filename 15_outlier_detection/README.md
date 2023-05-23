@@ -4,7 +4,7 @@ During the last topic, you learned the art of plotting using matplotlib and seab
 
 ## Selected Data Set
 
-Pokemon Classification Dataset. Available [here](https://bit.ly/3sJpeqn).
+Boston Housing Dataset. Available [here](https://www.kaggle.com/datasets/altavish/boston-housing-dataset).
 
 ## Tasks
 
