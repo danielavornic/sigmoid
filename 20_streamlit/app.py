@@ -200,13 +200,13 @@ def model_training(data):
             shap_values = explainer(X_test)
 
         st.subheader('SHAP Summary Plot')
-        st_shap(shap.plots.beeswarm(shap_values), height=400)
+        st_shap(shap.plots.beeswarm(shap_values), height=500)
 
         st.subheader('SHAP Bar Plot')
-        st_shap(shap.plots.bar(shap_values), height=350)
+        st_shap(shap.plots.bar(shap_values), height=400)
 
         st.subheader('SHAP Waterfall Plot for the First Prediction')
-        st_shap(shap.plots.waterfall(shap_values[0]), height=350)
+        st_shap(shap.plots.waterfall(shap_values[0]), height=400)
 
 
 def main():
