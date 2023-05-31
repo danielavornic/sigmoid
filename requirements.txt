@@ -2,7 +2,7 @@ ipython
 Markdown
 matplotlib
 matplotlib-inline
-numpy
+numpy==1.19.3
 pandas
 scikit-learn
 scipy
