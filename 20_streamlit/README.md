@@ -18,3 +18,5 @@ For this chapter, you will have to do the following:
 - Add a container in which will be written all the parameters you set
 - Below the container, add at least 3 charts that will print the correlation between the columns or the prediction for categories and others
 - For each text element, use a different type (i.e. markdown, code block, title, header, LaTeX)
+
+The Streamlit app is available [here](https://danielavornic-sigmoid-20-streamlitapp-frgnz8.streamlit.app/).
