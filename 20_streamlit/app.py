@@ -200,7 +200,7 @@ def model_training(data):
             shap_values = explainer(X_test)
 
         st.subheader('SHAP Summary Plot')
-        st_shap(shap.plots.beeswarm(shap_values), height=350)
+        st_shap(shap.plots.beeswarm(shap_values), height=400)
 
         st.subheader('SHAP Bar Plot')
         st_shap(shap.plots.bar(shap_values), height=350)
